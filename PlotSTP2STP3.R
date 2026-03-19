@@ -1,5 +1,3 @@
-#!/usr/bin/env Rscript
-
 ## ======================================================================
 ## Single-file script: STP2/STP3 regions on the 2-simplex (mu plot only)
 ## Used for geometric illustration in appendix of Koobs and Koning (2026)
